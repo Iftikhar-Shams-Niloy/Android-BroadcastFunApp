@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_wifilow.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\wifilow.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_cellularlow.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\cellularlow.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\layout_activity_battery_percentage.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\layout\\activity_battery_percentage.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_wifihigh.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\wifihigh.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_wifimedium.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\wifimedium.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_noconnection.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\noconnection.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\layout_activity_custom_broadcast.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\layout\\activity_custom_broadcast.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_cellulargone.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\cellulargone.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\layout_activity_wifi_state.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\layout\\activity_wifi_state.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\layout_activity_battery_percentage2.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\layout\\activity_battery_percentage2.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_cellularhigh.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\cellularhigh.png"
+    },
+    {
+        "merged": "com.example.broadcastfunapp-merged_res-31:/layout_activity_wifi_state.xml.flat",
+        "source": "com.example.broadcastfunapp-main-33:/layout/activity_wifi_state.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-merged_res-31:\\drawable_cellularmedium.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.2\\com.example.broadcastfunapp-main-33:\\drawable\\cellularmedium.png"
+    }
+]
